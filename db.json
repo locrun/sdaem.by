@@ -10,7 +10,7 @@
       "price_sq_m": "65.00 BYN",
       "price_total": "85.00 BYN",
       "rooms": "4",
-      "image": "/images/01.png"
+      "image": "https://raw.githubusercontent.com/locrun/sdaem.by/master/images/01.png"
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "price_sq_m": "65.00 BYN",
       "price_total": "165.00 BYN",
       "rooms": "4",
-      "image": "/images/02.png"
+      "image": "https://raw.githubusercontent.com/locrun/sdaem.by/master/images/03.png"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "price_sq_m": "65.00 BYN",
       "price_total": "95.00 BYN",
       "rooms": "4",
-      "image": "/images/03.png"
+      "image": "https://raw.githubusercontent.com/locrun/sdaem.by/master/images/03.png"
     }
   ]
 }
